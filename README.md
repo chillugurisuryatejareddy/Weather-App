@@ -11,7 +11,7 @@ Key Functionalities:
   
 Technical Specifications:
 
-* Programming Language: Python (widely used and beginner-friendly)
+* Programming Language: Python
 * Libraries: Tkinter (for building the graphical user interface), requests (for making API calls to the weather service), and others (depending on specific functionalities)
 
 Additional Notes:
